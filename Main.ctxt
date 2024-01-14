@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\nDescription\:\r\nTest\ class\ for\ the\ program.\ \ As\ of\ yet,\ it\ is\ just\ expected\ to\ store\ a\ GameManager\ object\ and\ to\ call\ its\ default\ constructor.\ \r\n\r\nAuthor\:\r\nDate\:\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

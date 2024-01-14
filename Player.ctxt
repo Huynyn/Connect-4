@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\nDescription\:\ Prompts\ the\ user\ to\ enter\ the\ players'\ names\ so\ each\ player\ can\ correspond\ to\ a\ letter\ within\ the\ game.\ \r\nThen,\ each\ player\ selects\ from\ the\ given\ colour\ options.\ After\ each\ game,\ ask\ the\ user\ if\ they\ wish\ to\ continue\ playing,\ \r\ndisplay\ statistics\ or\ exit.\r\n\r\nAuthor\:\ Huy,\ Matt\r\n\r\nDate\:\ 11/30/2023\ -\ 12/08/2023\r\n
+comment1.params=s
+comment1.target=Player(java.lang.String)
+comment2.params=
+comment2.target=char\ getColour()
+comment3.params=c
+comment3.target=void\ setColour(char)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

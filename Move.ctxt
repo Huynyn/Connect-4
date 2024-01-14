@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\r\nDescription\:\ Simply\ a\ custom\ \u201Cvariable\u201D,\ used\ for\ storage.\ \r\nStores\ a\ char\ for\ character.\ \r\nStores\ an\ x\ and\ y\ location\ inside\ 2d\ Array\ for\ move.\r\n\r\nAuthor\:\ Matt,\ Ahmad\r\n\r\nDate\:\ 11/30/2023\ -\ 12/08/2023\r\n
+comment1.params=x\ y\ chrColour
+comment1.target=Move(byte,\ byte,\ char)
+comment2.params=
+comment2.target=char\ getColour()
+comment3.params=
+comment3.target=byte\ getX()
+comment4.params=
+comment4.target=byte\ getY()
+numComments=5
